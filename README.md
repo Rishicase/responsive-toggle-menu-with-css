@@ -1,2 +1,2 @@
 # responsive-toggle-menu-with-css
-A responsive navigation menu using CSS only.
+A responsive navigation menu created using CSS only.
